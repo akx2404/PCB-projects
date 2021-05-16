@@ -1,0 +1,25 @@
+Added Component: Designator=D1(DC Jack)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H1(HCSR-04)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(ESP8266)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5 Pin=D1-2
+Added Pin To Net: NetName=+5 Pin=D1-3
+Added Pin To Net: NetName=+5 Pin=U1-30
+Added Net: Name=+5
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=H1-1
+Added Pin To Net: NetName=NetD1_1 Pin=U1-29
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetH1_2 Pin=H1-2
+Added Pin To Net: NetName=NetH1_2 Pin=U1-4
+Added Net: Name=NetH1_2
+Added Pin To Net: NetName=NetH1_3 Pin=H1-3
+Added Pin To Net: NetName=NetH1_3 Pin=U1-3
+Added Net: Name=NetH1_3
+Added Pin To Net: NetName=NetH1_4 Pin=H1-4
+Added Pin To Net: NetName=NetH1_4 Pin=U1-26
+Added Net: Name=NetH1_4
+Added Class: Name=SCH
+Added Room: Name=SCH
